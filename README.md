@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TiyaMehta
+- 👋 Hi, I’m Tiya Mehta
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning React JS and Wordpress
+- 🌱 I’m currently learning React JS and WordPress
 - 📫 How to reach me: tiyakev@gmail.com
 - Linkedin: https://www.linkedin.com/in/tiya-mehta-658869202/
 
