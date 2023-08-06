@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tiya Mehta
+- 👋 Hello, I’m Tiya Mehta
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning React JS and WordPress
 - 📫 How to reach me: tiyakev@gmail.com
